@@ -1,0 +1,11 @@
+streamlit
+openai-agents
+python-dotenv
+fpdf 
+requests 
+pillow
+nest_asyncio
+base64io
+openai
+fpdf2
+
