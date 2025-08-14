@@ -1,11 +1,6 @@
 streamlit
-openai-agents
-python-dotenv
-fpdf 
-requests 
-pillow
-nest_asyncio
-base64io
 openai
+python-dotenv
 fpdf2
-
+requests
+pillow
